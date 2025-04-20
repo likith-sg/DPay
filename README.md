@@ -93,36 +93,21 @@ Below are screenshots of the DPay Wallet DApp in action:
 ### Deposit ETH
 
 <div align="center">
-  <img src="./assets/Deposit.png" alt="Deposit ETH" width="500" />
-</div>
-
-### Deposit ETH (Pop up Notification)
-
-<div align="center">
+  <img src="./assets/Deposit.png" alt="Deposit ETH" width="500" style="margin-right: 20px;" />
   <img src="./assets/Deposit2.png" alt="Deposit ETH - Popup Notification" width="500" />
 </div>
 
 ### Withdraw ETH
 
 <div align="center">
-  <img src="./assets/Withdraw.png" alt="Withdraw ETH" width="500" />
-</div>
-
-### Withdraw ETH (Pop up Notification)
-
-<div align="center">
+  <img src="./assets/Withdraw.png" alt="Withdraw ETH" width="500" style="margin-right: 20px;" />
   <img src="./assets/Withdraw2.png" alt="Withdraw ETH - Popup Notification" width="500" />
 </div>
 
 ### Send ETH to Another Address
 
 <div align="center">
-  <img src="./assets/SendETH.png" alt="Send ETH" width="500" />
-</div>
-
-### Send ETH to Another Address (Pop up Notification)
-
-<div align="center">
+  <img src="./assets/SendETH.png" alt="Send ETH" width="500" style="margin-right: 20px;" />
   <img src="./assets/SendETH2.png" alt="Send ETH - Popup Notification" width="500" />
 </div>
 
