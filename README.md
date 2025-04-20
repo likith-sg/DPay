@@ -82,7 +82,49 @@ The app will be available at: `http://localhost:5173`
 
 ## App Preview:
 
+Below are screenshots of the DPay Wallet DApp in action:
 
+### Dashboard View
+
+<div align="center">
+  <img src="./frontend/src/assets/Dashboard.png" alt="Dashboard View" width="500" />
+</div>
+
+### Deposit ETH
+
+<div align="center">
+  <img src="./frontend/src/assets/Deposit.png" alt="Deposit ETH" width="500" />
+</div>
+
+### Deposit ETH (Popup Notification)
+
+<div align="center">
+  <img src="./frontend/src/assets/Deposit2.png" alt="Deposit ETH - Popup Notification" width="500" />
+</div>
+
+### Send ETH to Another Address
+
+<div align="center">
+  <img src="./frontend/src/assets/SendETH.png" alt="Send ETH" width="500" />
+</div>
+
+### Send ETH to Another Address (Popup Notification)
+
+<div align="center">
+  <img src="./frontend/src/assets/SendETH2.png" alt="Send ETH - Popup Notification" width="500" />
+</div>
+
+### Withdraw ETH
+
+<div align="center">
+  <img src="./frontend/src/assets/Withdraw.png" alt="Withdraw ETH" width="500" />
+</div>
+
+### Withdraw ETH (Popup Notification)
+
+<div align="center">
+  <img src="./frontend/src/assets/Withdraw2.png" alt="Withdraw ETH - Popup Notification" width="500" />
+</div>
 
 ---
 
