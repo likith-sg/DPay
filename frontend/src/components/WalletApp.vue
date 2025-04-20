@@ -125,7 +125,7 @@ async connectWallet() {
     this.account = account;
 
     // ⚠️ Initialize contract here
-    const contractAddress = '0x31bf14866e5f405Acd4746B683dBf058ff19f5cd';
+    const contractAddress = '0x854cF79Ac723210f46401ceA819D52b15F031b44';
     this.contract = new ethers.Contract(contractAddress, DPayABI.abi, signer);
 
     await this.getBalance();
