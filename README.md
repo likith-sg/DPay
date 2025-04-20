@@ -92,24 +92,57 @@ Below are screenshots of the DPay Wallet DApp in action:
 
 ### Deposit ETH
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./assets/Deposit.png" alt="Deposit ETH" width="500" />
-  <img src="./assets/Deposit2.png" alt="Deposit ETH - Popup Notification" width="500" />
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/Deposit.png" alt="Deposit ETH" width="500px"/><br/>
+        <em>Deposit ETH</em>
+      </td>
+      <td width="60px"></td> <!-- spacer column -->
+      <td align="center">
+        <img src="./assets/Deposit2.png" alt="Deposit ETH - Popup Notification" width="500px"/><br/>
+        <em>Deposit ETH - Popup Notification</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ### Withdraw ETH
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./assets/Withdraw.png" alt="Withdraw ETH" width="500" />
-  <img src="./assets/Withdraw2.png" alt="Withdraw ETH - Popup Notification" width="500" />
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/Withdraw.png" alt="Withdraw ETH" width="500px"/><br/>
+        <em>Withdraw ETH</em>
+      </td>
+      <td width="60px"></td> <!-- spacer column -->
+      <td align="center">
+        <img src="./assets/Withdraw2.png" alt="Withdraw ETH - Popup Notification" width="500px"/><br/>
+        <em>Withdraw ETH - Popup Notification</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ### Send ETH to Another Address
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./assets/SendETH.png" alt="Send ETH" width="500" />
-  <img src="./assets/SendETH2.png" alt="Send ETH - Popup Notification" width="500" />
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/SendETH.png" alt="Send ETH" width="500px"/><br/>
+        <em>Send ETH</em>
+      </td>
+      <td width="60px"></td> <!-- spacer column -->
+      <td align="center">
+        <img src="./assets/SendETH2.png" alt="Send ETH - Popup Notification" width="500px"/><br/>
+        <em>Send ETH - Popup Notification</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
